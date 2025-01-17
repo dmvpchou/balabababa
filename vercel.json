@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/(.*)", // 匹配所有路徑
+      "source": "/(.*)",
       "destination": "https://bafu.tw/",
       "permanent": true
     }
