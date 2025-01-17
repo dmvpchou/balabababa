@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/old-path",
+      "destination": "https://your-new-site.com",
+      "permanent": true
+    }
+  ]
+}
